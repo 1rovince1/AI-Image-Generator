@@ -1,5 +1,4 @@
-import Navbar from 
-'../../common/navbar/navbar.js';
+import Navbar from '../../common/navbar/navbar.js';
 
 const Homepage = () => {
     return (
